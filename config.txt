@@ -19,8 +19,8 @@
         "BONK-USD",
         "WIF-USD"
     ],
-    "email": "yourgmail@gmail.com",
-    "password": "your_app_password_here",
+    "email": "codlo2003@gmail.com",
+    "password": "lbfg fzxq diwy txsd",
     "to_email": "codlo2003@gmail.com",
     "to_sms": "3343431630@vtext.com"
 }
