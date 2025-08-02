@@ -1,0 +1,26 @@
+{
+    "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "SOL-USD",
+        "ADA-USD",
+        "XRP-USD",
+        "DOGE-USD",
+        "SHIB-USD",
+        "USDT-USD",
+        "BNB-USD",
+        "AVAX-USD",
+        "LINK-USD",
+        "MATIC-USD",
+        "LTC-USD",
+        "BCH-USD",
+        "AAVE-USD",
+        "PEPE-USD",
+        "BONK-USD",
+        "WIF-USD"
+    ],
+    "email": "yourgmail@gmail.com",
+    "password": "your_app_password_here",
+    "to_email": "codlo2003@gmail.com",
+    "to_sms": "3343431630@vtext.com"
+}
